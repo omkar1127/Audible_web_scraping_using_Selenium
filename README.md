@@ -25,9 +25,10 @@ The scraper navigates through multiple pages, collecting key data such as:
 
 ## Things that i learn From this projects:
 ***I learned the practical difference between implicit and explicit waits in Selenium. 
-I understood that implicit waits apply globally and can cause unnecessary delays, 
-while explicit waits provide better control by waiting only for specific conditions, 
-making the scraper more efficient and reliable for dynamic web content.***
+Implicit waits apply globally and may lead to unnecessary delays, 
+while explicit waits allow precise control by targeting specific conditions, 
+making scraping more efficient and reliable. 
+Additionally, I learned how to handle dynamic pagination by iterating through pages and interacting with navigation elements programmatically.***
 
 This project demonstrates practical skills in web automation, data extraction, and preprocessing for analysis or machine learning workflows.
 
