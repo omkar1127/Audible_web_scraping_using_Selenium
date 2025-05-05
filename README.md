@@ -40,5 +40,7 @@ The scraped data is saved as a CSV file:
 `ebooks_data.csv`
 
 ---
-This project demonstrates practical skills in web automation, data extraction, and preprocessing for analysis or machine learning workflows.
+This project demonstrates practical skills in web automation, data extraction, and preprocessing for analysis or machine learning workflows.<br>
+
+
 Feel free to clone, explore, or extend this project!
