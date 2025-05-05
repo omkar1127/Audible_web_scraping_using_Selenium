@@ -31,9 +31,7 @@ This project is a Python-based web scraper built using **Selenium**, designed to
 ---
 
 ## 🧠 What I Learned
-> I learned the practical difference between **implicit** and **explicit waits** in Selenium. Implicit waits apply globally and may cause unnecessary delays, while explicit waits allow precise control by targeting specific conditions, improving scraping efficiency and reliability.  
->  
-> Additionally, I learned how to implement **dynamic pagination** by iterating through pages and programmatically interacting with navigation elements. This project helped me strengthen my understanding of web automation, data extraction, and data cleaning using Python.
+***I learned the practical difference between **implicit** and **explicit waits** in Selenium. Implicit waits apply globally and may cause unnecessary delays, while explicit waits allow precise control by targeting specific conditions, improving scraping efficiency and reliability. Additionally, I learned how to implement **dynamic pagination** by iterating through pages and programmatically interacting with navigation elements. This project helped me strengthen my understanding of web automation, data extraction, and data cleaning using Python.***
 
 ---
 
