@@ -1,7 +1,7 @@
-# 📘🎧 Audible Web Scraper
+# 📘🎧 AudioCrawler
 
 ## 📌 Overview
-This project is a Python-based web scraper built using **Selenium**, designed to extract audiobook information from the Audible website using a **headless Chrome browser**. It navigates through multiple pages and collects structured data for further analysis.
+AudioCrawler is a Python-based web scraper project built using **Selenium**, designed to extract audiobook information from the Audible website using a **headless Chrome browser**. It navigates through multiple pages and collects structured data for further analysis.
 
 ### 🔍 Data Extracted
 - **Title**
